@@ -1,3 +1,7 @@
+# Integrantes
+* Helena Vegalara Correa 201823328
+* Juan Esteban Rodriguez 202011178
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
